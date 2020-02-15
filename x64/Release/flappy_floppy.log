@@ -1,0 +1,17 @@
+﻿  Generate moc_predefs.h
+  Rcc'ing resourses.qrc...
+  Moc'ing floppy.h...
+  Moc'ing scene.h...
+  Moc'ing tower.h...
+  Moc'ing widget.h...
+  floppy.cpp
+  main.cpp
+  scene.cpp
+  tower.cpp
+  widget.cpp
+  qrc_resourses.cpp
+  moc_floppy.cpp
+  moc_scene.cpp
+  moc_tower.cpp
+  moc_widget.cpp
+  flappy_floppy.vcxproj -> D:\mems\not_Qt\flappy_floppy\release\flappy_floppy.exe
